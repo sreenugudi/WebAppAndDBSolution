@@ -57,7 +57,4 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
-  <ItemGroup>
-    <Build Include="Table1_1.sql" />
-  </ItemGroup>
 </Project>
