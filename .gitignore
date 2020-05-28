@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SampleSolution
+/UnitTestProject/bin/Debug/netcoreapp3.1
+/UnitTestProject/obj
+/Database
+/WebApp
+/AzureResourceGroup/bin/Debug/staging/AzureResourceGroup
